@@ -1,0 +1,18 @@
+p{
+    margin:0%;
+    font-family: Roboto, Arial;
+}
+.peragraph-basic{
+    width: 300px;
+    font-weight: bold;
+    font-size: 12pt;
+    transition: 0.2s;
+}
+.channel-info{
+    font-size: 15px;
+    padding-top: 3px;
+}
+.peragraph-basic:hover,
+.channel-info:hover{
+    cursor: pointer;
+}
